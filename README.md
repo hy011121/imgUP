@@ -1,4 +1,5 @@
 **Explanation of Uploading Images to ImgBB on**
+
 It contains a step-by-step guide to uploading images to ImgBB directly from your ImgUp GitHub. The code section has been hidden as per your request.
 
 **Preparation:**
